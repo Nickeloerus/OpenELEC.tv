@@ -1,7 +1,7 @@
-diff --git a/arch/arm/boot/dts/amlogic/meson8b_mxq.dtd b/arch/arm/boot/dts/amlogic/meson8b_mxq.dtd
+diff --git a/arch/arm/boot/dts/amlogic/meson8b_m201_1G.dtd b/arch/arm/boot/dts/amlogic/meson8b_m201_1G.dtd
 index 781f191..80beebc 100644
---- a/arch/arm/boot/dts/amlogic/meson8b_mxq.dtd
-+++ b/arch/arm/boot/dts/amlogic/meson8b_mxq.dtd
+--- a/arch/arm/boot/dts/amlogic/meson8b_m201_1G.dtd
++++ b/arch/arm/boot/dts/amlogic/meson8b_m201_1G.dtd
 @@ -769,18 +769,18 @@ void root_func(){
              dvfs_table  = <
              /* NOTE: frequent in this table must be ascending order */
